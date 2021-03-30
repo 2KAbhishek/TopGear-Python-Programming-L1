@@ -1,0 +1,5 @@
+Line#0 -> Character Count : 11 Word Count : 2
+Line#1 -> Character Count : 21 Word Count : 4
+Line#2 -> Character Count : 22 Word Count : 5
+Line#3 -> Character Count : 28 Word Count : 5
+Line#4 -> Character Count : 22 Word Count : 4
